@@ -52,7 +52,7 @@ An iOS app for book lovers to explore a curated list of books. Dive into details
 
 ## 📜 License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more information.
 
 ## 📬 Contact
 
