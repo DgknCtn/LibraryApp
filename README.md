@@ -1,5 +1,3 @@
-Certainly! Here’s a more polished and visually appealing version for your README:
-
 ---
 
 # 📚 LibraryApp
